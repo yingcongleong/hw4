@@ -11,6 +11,16 @@
 		5731A5B2256BA380004B0D3B /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5731A5B1256BA380004B0D3B /* ContentView.swift */; };
 		5731A5B4256BA380004B0D3B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5731A5B3256BA380004B0D3B /* Assets.xcassets */; };
 		5731A5B7256BA380004B0D3B /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5731A5B6256BA380004B0D3B /* Preview Assets.xcassets */; };
+		5731A5C0256BA3CE004B0D3B /* Money.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5731A5BF256BA3CE004B0D3B /* Money.swift */; };
+		5731A5C8256BA487004B0D3B /* Data.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5731A5C7256BA487004B0D3B /* Data.swift */; };
+		5731A5CB256BA4E9004B0D3B /* Row.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5731A5CA256BA4E9004B0D3B /* Row.swift */; };
+		5731A5CF256BA665004B0D3B /* List.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5731A5CE256BA665004B0D3B /* List.swift */; };
+		5731A5D3256BA979004B0D3B /* Editor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5731A5D2256BA979004B0D3B /* Editor.swift */; };
+		57CC2825256CF72700C5E205 /* piechart.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57CC2824256CF72700C5E205 /* piechart.swift */; };
+		57CC282A256D00E800C5E205 /* piechartview.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57CC2829256D00E800C5E205 /* piechartview.swift */; };
+		57CC282E256D055E00C5E205 /* Pie.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57CC282D256D055E00C5E205 /* Pie.swift */; };
+		57CC2832256D0C8300C5E205 /* barchart.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57CC2831256D0C8300C5E205 /* barchart.swift */; };
+		57CC283B256D326D00C5E205 /* barchartView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57CC283A256D326D00C5E205 /* barchartView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +30,16 @@
 		5731A5B3256BA380004B0D3B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5731A5B6256BA380004B0D3B /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		5731A5B8256BA380004B0D3B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5731A5BF256BA3CE004B0D3B /* Money.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Money.swift; sourceTree = "<group>"; };
+		5731A5C7256BA487004B0D3B /* Data.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Data.swift; sourceTree = "<group>"; };
+		5731A5CA256BA4E9004B0D3B /* Row.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Row.swift; sourceTree = "<group>"; };
+		5731A5CE256BA665004B0D3B /* List.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = List.swift; sourceTree = "<group>"; };
+		5731A5D2256BA979004B0D3B /* Editor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Editor.swift; sourceTree = "<group>"; };
+		57CC2824256CF72700C5E205 /* piechart.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = piechart.swift; sourceTree = "<group>"; };
+		57CC2829256D00E800C5E205 /* piechartview.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = piechartview.swift; sourceTree = "<group>"; };
+		57CC282D256D055E00C5E205 /* Pie.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Pie.swift; sourceTree = "<group>"; };
+		57CC2831256D0C8300C5E205 /* barchart.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = barchart.swift; sourceTree = "<group>"; };
+		57CC283A256D326D00C5E205 /* barchartView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = barchartView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +74,16 @@
 			children = (
 				5731A5AF256BA380004B0D3B /* crudApp.swift */,
 				5731A5B1256BA380004B0D3B /* ContentView.swift */,
+				5731A5BF256BA3CE004B0D3B /* Money.swift */,
+				5731A5C7256BA487004B0D3B /* Data.swift */,
+				5731A5CA256BA4E9004B0D3B /* Row.swift */,
+				5731A5CE256BA665004B0D3B /* List.swift */,
+				5731A5D2256BA979004B0D3B /* Editor.swift */,
+				57CC2824256CF72700C5E205 /* piechart.swift */,
+				57CC2829256D00E800C5E205 /* piechartview.swift */,
+				57CC282D256D055E00C5E205 /* Pie.swift */,
+				57CC2831256D0C8300C5E205 /* barchart.swift */,
+				57CC283A256D326D00C5E205 /* barchartView.swift */,
 				5731A5B3256BA380004B0D3B /* Assets.xcassets */,
 				5731A5B8256BA380004B0D3B /* Info.plist */,
 				5731A5B5256BA380004B0D3B /* Preview Content */,
@@ -138,8 +168,18 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				57CC282E256D055E00C5E205 /* Pie.swift in Sources */,
+				5731A5D3256BA979004B0D3B /* Editor.swift in Sources */,
+				57CC282A256D00E800C5E205 /* piechartview.swift in Sources */,
+				57CC2825256CF72700C5E205 /* piechart.swift in Sources */,
+				57CC2832256D0C8300C5E205 /* barchart.swift in Sources */,
+				57CC283B256D326D00C5E205 /* barchartView.swift in Sources */,
+				5731A5C0256BA3CE004B0D3B /* Money.swift in Sources */,
 				5731A5B2256BA380004B0D3B /* ContentView.swift in Sources */,
 				5731A5B0256BA380004B0D3B /* crudApp.swift in Sources */,
+				5731A5CB256BA4E9004B0D3B /* Row.swift in Sources */,
+				5731A5C8256BA487004B0D3B /* Data.swift in Sources */,
+				5731A5CF256BA665004B0D3B /* List.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
